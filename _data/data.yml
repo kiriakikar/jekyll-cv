@@ -1,4 +1,4 @@
-name: John Doe
+name: Kiriaki Kar
 support_dark_mode: true
 fork: true
 
@@ -12,14 +12,14 @@ contact:
   twitter: 
 
 languages:
-  - idiom: English 
-  - idiom: Russian
-  - idiom: French
+  - idiom: English  (fluent)
+  - idiom: German (good)
+  - idiom: French (good)
 
 education:
   - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+    time: 2005-2010
+    university: Elliniko Anoikto Panepistimio
 
   - degree: BSc in Computer Science
     time: 2010-2014
