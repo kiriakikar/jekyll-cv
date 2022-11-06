@@ -4,15 +4,15 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: kiriakikar@gmail.com
+  github: kiriakikar
+  linkedin: kiriaki k
+  phone: 6971234567
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
+  - idiom: English 
   - idiom: Russian
   - idiom: French
 
