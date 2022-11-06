@@ -21,9 +21,7 @@ education:
     time: 2005-2010
     university: Elliniko Anoikto Panepistimio
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+ 
 
 skills:
   - category: Backend
